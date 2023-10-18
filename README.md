@@ -14,7 +14,8 @@
 <br>
 <br>
 <br>
-- 🌱 I’m currently learning **Java , Linux , React**
+
+- 🌱 I’m currently learning **Java,Linux,React**
 
 - 💬 Ask me about **Laravel,vuejs,c++,Php**
 
