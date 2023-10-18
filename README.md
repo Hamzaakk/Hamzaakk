@@ -7,11 +7,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaakkaoui&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaakkaoui" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<p align="right">
+<p align="center">
   <img src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=996&t=st=1697593633~exp=1697594233~hmac=6c7a203b4d3d3d239be0607005471215c023de12bd4b2cd7416c9415020928ef" width="400" />
 </p>
 
-
+<br>
+<br>
+<br>
 - 🌱 I’m currently learning **Java , Linux , React**
 
 - 💬 Ask me about **Laravel,vuejs,c++,Php**
