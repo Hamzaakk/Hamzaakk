@@ -1,5 +1,6 @@
 
-![Masthead Image](https://img.freepik.com/premium-photo/abstract-modern-tech-programming-code-screen-developer_505353-240.jpg?w=1060)
+![Masthead Image](https://libg.s3.us-east-2.amazonaws.com/download/1076/1076-Its-Time-To-Program-Something.jpg)
+
 <h1 align="center">Hi 👋, I'm Hamza Akkaoui</h1>
 <h3 align="center">A passionate Computer science student from Morocco</h3>
 
