@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **aakkaouihamza@gmail.com**
 
-- 📄 **Know about my experiences**: <br> As a computer science student , I'm passionate about coding and building software solutions. I've honed my skills through coursework and personal projects. Eager to learn and adapt, I'm excited to contribute my coding expertise to real-world challenges and collaborate with like-minded professionals.
+- 📄 **short desc**: <br> As a computer science student , I'm passionate about coding and building software solutions. I've honed my skills through coursework and personal projects. Eager to learn and adapt, I'm excited to contribute my coding expertise to real-world challenges and collaborate with like-minded professionals.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
