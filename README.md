@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D4E03AQF5SE1DYbPajA/profile-displayphoto-shrink_800_800/0/1700418678725?e=1706140800&v=beta&t=_TA9E4EUpZVPaGPXvLSqbBQDh0uBa7SSvbMJ3n7PxEg" width="400" />
+  <img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?t=st=1700517841~exp=1700518441~hmac=2a2c03ec2b76571bdaf22c76331764fb874c446cc09d0452f393613ab439937e" width="400" />
 </p>
 
 <br>
