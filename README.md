@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=996&t=st=1697593633~exp=1697594233~hmac=6c7a203b4d3d3d239be0607005471215c023de12bd4b2cd7416c9415020928ef" width="400" />
+  <img src="https://media.licdn.com/dms/image/D4E03AQF5SE1DYbPajA/profile-displayphoto-shrink_800_800/0/1700418678725?e=1706140800&v=beta&t=_TA9E4EUpZVPaGPXvLSqbBQDh0uBa7SSvbMJ3n7PxEg" width="400" />
 </p>
 
 <br>
