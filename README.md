@@ -4,11 +4,11 @@
 <h3 align="center">A passionate Computer science student from Morocco</h3>
 
 
-<p align="left"> <img src="https://media.licdn.com/dms/image/D4E03AQF5SE1DYbPajA/profile-displayphoto-shrink_400_400/0/1700418678725?e=1709164800&v=beta&t=QUNyHdJm3_bIdIDRuA4bKpJD4Hj8-Q52AVgX0FjRToo" alt="hamzaakkaoui" /> </p>
+<p align="left"></p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?t=st=1700517841~exp=1700518441~hmac=2a2c03ec2b76571bdaf22c76331764fb874c446cc09d0452f393613ab439937e" width="400" />
+ <img src="https://media.licdn.com/dms/image/D4E03AQF5SE1DYbPajA/profile-displayphoto-shrink_400_400/0/1700418678725?e=1709164800&v=beta&t=QUNyHdJm3_bIdIDRuA4bKpJD4Hj8-Q52AVgX0FjRToo" alt="hamzaakkaoui" /> 
 </p>
 
 <br>
