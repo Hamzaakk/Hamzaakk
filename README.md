@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <p align="center">
- <img src="https://media.licdn.com/dms/image/D4E03AQF5SE1DYbPajA/profile-displayphoto-shrink_400_400/0/1700418678725?e=1709164800&v=beta&t=QUNyHdJm3_bIdIDRuA4bKpJD4Hj8-Q52AVgX0FjRToo" alt="hamzaakkaoui" /> 
+ <img src="https://images.pexels.com/photos/17483848/pexels-photo-17483848/free-photo-of-an-artist-s-illustration-of-artificial-intelligence-ai-this-image-depicts-a-look-inside-how-ai-microchips-are-designed-it-was-created-by-champ-panupong-techawongthawon-as-part-of-the-v.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="hamzaakkaoui" /> 
 </p>
 
 <br>
