@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Computer science student from Morocco</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaakkaoui&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaakkaoui" /> </p>
+<p align="left"> <img src="https://media.licdn.com/dms/image/D4E03AQF5SE1DYbPajA/profile-displayphoto-shrink_400_400/0/1700418678725?e=1709164800&v=beta&t=QUNyHdJm3_bIdIDRuA4bKpJD4Hj8-Q52AVgX0FjRToo" alt="hamzaakkaoui" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <p align="center">
