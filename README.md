@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Hamza Akkaoui</h1>
 <h3 align="center">A passionate Computer science student from Morocco</h3>
-- 📄 **PROFIL** Étudiant en 5ᵉ année de génie informatique à l'École Nationale des Sciences Appliquées d'Al Hoceima, Maroc, spécialisé en génie logiciel . Actuellement à la recherche d'un stage de fin d'études (PFE) , disponible à partir de février 2025. Motivé à débuter ma carrière au sein d'une équipe dynamique et à contribuer à des projets innovants.](Étudiant en 5ᵉ année de génie informatique à l'École Nationale des Sciences Appliquées d'Al Hoceima, Maroc, spécialisé en génie logiciel . Actuellement à la recherche d'un stage de fin d'études (PFE) , disponible à partir de février 2025. Motivé à débuter ma carrière au sein d'une équipe dynamique et à contribuer à des projets innovants.
+- 📄 Étudiant en 5ᵉ année de génie informatique à l'École Nationale des Sciences Appliquées d'Al Hoceima, Maroc, spécialisé en génie logiciel . Actuellement à la recherche d'un stage de fin d'études (PFE) , disponible à partir de février 2025. Motivé à débuter ma carrière au sein d'une équipe dynamique et à contribuer à des projets innovants.](Étudiant en 5ᵉ année de génie informatique à l'École Nationale des Sciences Appliquées d'Al Hoceima, Maroc, spécialisé en génie logiciel . Actuellement à la recherche d'un stage de fin d'études (PFE) , disponible à partir de février 2025. Motivé à débuter ma carrière au sein d'une équipe dynamique et à contribuer à des projets innovants.
 
 <p align="left"></p>
 
