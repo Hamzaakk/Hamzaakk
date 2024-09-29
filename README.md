@@ -1,8 +1,8 @@
 ![Masthead Image](https://libg.s3.us-east-2.amazonaws.com/download/1076/1076-Its-Time-To-Program-Something.jpg)
 
 <h1 align="center">Hi 👋, I'm Hamza Akkaoui</h1>
-<h3 align="center">A passionate Computer science student from Morocco</h3>
-- 📄 Étudiant en 5ᵉ année de génie informatique à l'École Nationale des Sciences Appliquées d'Al Hoceima, Maroc, spécialisé en génie logiciel . Actuellement à la recherche d'un stage de fin d'études (PFE) , disponible à partir de février 2025. Motivé à débuter ma carrière au sein d'une équipe dynamique et à contribuer à des projets innovants.
+<h3 align="center"> 
+Student in 5ᵉ year of computer engineering at École Nationale des Sciences Appliquées d'Al Hoceima, Morocco, specializing in software engineering . Currently looking for a final year internship (PFE) , available from February 2025. Motivated to start my career in a dynamic team and contribute to innovative projects.
 
 <p align="left"></p>
 
