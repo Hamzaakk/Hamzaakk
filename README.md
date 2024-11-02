@@ -15,7 +15,7 @@ Student in 5ᵉ year of computer engineering at NATIONAL SCHOOL OF APPLIED SCIEN
 
 - 🌱 I’m currently learning **Devops CI/CD, Spring Boot , React , Microservice**
 
-- 📝 I regularly write articles on [https://medium.com/@akkaouih17/from-imperative-to-reactive-reactive-programming-with-spring-webflux-b68ee6aa0324](https://medium.com/@akkaouih17/from-imperative-to-reactive-reactive-programming-with-spring-webflux-b68ee6aa0324)
+- 📝 I regularly write articles on [https://medium.com/@akkaouih17](https://medium.com/@akkaouih17/from-imperative-to-reactive-reactive-programming-with-spring-webflux-b68ee6aa0324)
 
 - 💬 Ask me about **Java , Java EE , Spring Boot , React , Github Actions :)**
 
