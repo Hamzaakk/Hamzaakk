@@ -13,6 +13,7 @@ Student in 5ᵉ year of computer engineering at NATIONAL SCHOOL OF APPLIED SCIEN
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzaakk" alt="hamzaakk" /></a> </p>
 
+- 📌 I’m currently  looking for **a final year internship (PFE)**
 - 🌱 I’m currently learning **Devops CI/CD, Spring Boot , React , Microservice**
 
 - 📝 I regularly write articles on [https://medium.com/@akkaouih17](https://medium.com/@akkaouih17/from-imperative-to-reactive-reactive-programming-with-spring-webflux-b68ee6aa0324)
