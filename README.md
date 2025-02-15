@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Hamza Akkaoui</h1>
 <h3 align="center"> 
-Student in 5ᵉ year of computer engineering at NATIONAL SCHOOL OF APPLIED SCIENCES AL HOCEIMA (ENSAH) , Morocco, specializing in software engineering . Currently looking for a final year internship (PFE) , available from February 2025. Motivated to start my career in a dynamic team and contribute to innovative projects.
-
+Student in 5ᵉ year of computer engineering at NATIONAL SCHOOL OF APPLIED SCIENCES AL HOCEIMA (ENSAH) , Morocco, specializing in software engineering .
 <p align="left"></p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
