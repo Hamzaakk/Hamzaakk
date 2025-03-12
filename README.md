@@ -1,6 +1,6 @@
 ![Masthead Image](https://libg.s3.us-east-2.amazonaws.com/download/1076/1076-Its-Time-To-Program-Something.jpg)
 
-<h1 align="center">Hi 👋, I'm Hamza Akkaoui</h1>
+<h1 align="center">Hi 👋, I'm Hamza </h1>
 <h3 align="center"> 
 Student in 5ᵉ year of computer engineering at NATIONAL SCHOOL OF APPLIED SCIENCES AL HOCEIMA (ENSAH) , Morocco .
 <p align="left"></p>
