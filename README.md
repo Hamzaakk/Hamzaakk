@@ -1,24 +1,10 @@
 ![Masthead Image](https://libg.s3.us-east-2.amazonaws.com/download/1076/1076-Its-Time-To-Program-Something.jpg)
 
-<h1 align="center">Hi 👋, I'm Hamza </h1>
-<h3 align="center"> 
-Student in 5ᵉ year of computer engineering at NATIONAL SCHOOL OF APPLIED SCIENCES AL HOCEIMA (ENSAH) , Morocco .
-<p align="left"></p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<p align="center">
 
 <br>
 
 
 
-- 🌱 I’m currently learning **Devops CI/CD, Spring Boot , React , Microservice**
-
-- 📝 I regularly write articles on [https://medium.com/@akkaouih17](https://medium.com/@akkaouih17/from-imperative-to-reactive-reactive-programming-with-spring-webflux-b68ee6aa0324)
-
-- 💬 Ask me about **Java , Java EE , Spring Boot , React , Github Actions :)**
-
-- 📫 How to reach me **aakkaouihamza@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
